@@ -7,14 +7,14 @@
 На тестирование затрачено: 4 часа
 
 В результате тестирования выявлены следующие дефекты:
-[Баг-репорт](url "https://github.com/kawasary/java-homework-1.1/issues/1")
+[Баг-репорт](https://github.com/kawasary/java-homework-1.1/issues/1)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
 * Bug report
 
-В качестве тестовых данных использовалось [руководство пользования KeyValidator](url "https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md")
+В качестве тестовых данных использовалось [руководство пользования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
 **Валидные ключи:**
 
