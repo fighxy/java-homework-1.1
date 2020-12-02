@@ -15,12 +15,11 @@
 В процессе тестирования использовались следующие артефакты:
 
 Приложение KeyValidator
-
-[Описание задания по его тестированию](https://github.com/netology-code/javaqa-homeworks/tree/master/intro)
-
-В качестве тестовых данных использовалось:
 - [Руководство использования ](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 - [Инструкция по установке OpenJDK 11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
+
+
+В качестве тестовых данных использовалось:
 
 **Валидные ключи:**
 
